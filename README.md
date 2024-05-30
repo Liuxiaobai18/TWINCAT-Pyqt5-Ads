@@ -1,2 +1,2 @@
-# TWINCA-
+# TWINCAT-Pyqt5-Ads
 该项目是通过Python的pyads库来实现的读取TWINCAT变量的数据，并根据该数据绘制曲线图，可以展现最大值和最小值
